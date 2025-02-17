@@ -65,7 +65,7 @@ The following limitations were found:
 
 - Computational cost: DBSCAN can be computationally expensive for very large datasets.
 
-![alt text](image-1.png)
+![alt text](imgs/image-1.png)
 
 (outliers are shown in black color)
 
@@ -86,7 +86,7 @@ The following limitations were found:
     -  Minimum Samples (min_samples): 4
 
 
-![alt text](image.png)
+![alt text](imgs/image.png)
 
 | Algorithm                | Precision | Recall   | F1-score | Accuracy  |
 |--------------------------|-----------|----------|----------|-----------|
